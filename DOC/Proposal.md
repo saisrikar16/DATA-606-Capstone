@@ -3,10 +3,9 @@
 ## Title and Author
 - **Project Title:** Health Insurance Fraud Claim Detection and Claim Amount Prediction
 - **Prepared for:** UMBC Data Science Master Degree Capstone by Ozgur Ozturk
-- **Author Name:** Deepak Nazari Sai
-- **GitHub Profile:** https://github.com/NazariSaiDeepak
-- **LinkedIn Profile:** https://www.linkedin.com/in/deepak-nazari-sai/
-
+- **Author Name:** Sai Srikar Gurthuru
+- **GitHub Profile:** https://github.com/saisrikar16
+- **LinkedIn Profile:** https://www.linkedin.com/in/sai-srikar-gurthuru-b06ba8179/
 ## Background
 ### What is it about?
 This project aims to develop a system that can detect whether a health insurance claim is fraudulent or not, as well as create a model capable of accurately predicting the amount of the claim based on user information.
